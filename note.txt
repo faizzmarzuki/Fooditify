@@ -1,0 +1,54 @@
+✅- finished
+❎- ongoing
+
+Logout Stack
+import SplashScreen from './screens/LogoutStack/splashScreen.js';✅
+import Register from './screens/LogoutStack/Register.js';✅
+import LoginScreen from './screens/LogoutStack/loginScreen.js'; ✅
+
+Buyer Stack
+import CartScreen from './screens/Buyer/cartScreen.js';✅
+import CheckoutScreen from './screens/Buyer/checkoutScreen.js';✅
+import EmailScreen from './screens/Buyer/emailScreen.js';✅
+import HomeScreen from './screens/Buyer/homeScreen.js';✅
+import MenuScreen from './screens/Buyer/menuScreen.js';✅
+import MobileScreen from './screens/Buyer/mobileScreen.js';✅
+import NameScreen from './screens/Buyer/nameScreen.js';✅
+import OrderScreen from './screens/Buyer/orderScreen.js';✅
+import PaymentScreen from './screens/Buyer/paymentScreen.js';✅
+import ProfileScreen from './screens/Buyer/profileScreen.js';✅
+import RestaurantScreen from './screens/Buyer/restaurantScreen.js';✅
+import SearchScreen from './screens/Buyer/searchScreen.js';✅
+
+Seller Stack
+import FinishScreen from './screens/Seller/finishScreen.js';✅
+import HomeScreen from './screens/Seller/homeScreen.js';✅
+import MenuScreenEdit from './screens/Seller/menuScreen.edit.js';✅
+import MenuScreen from './screens/Seller/menuScreen.js';✅
+import OrderScreen from './screens/Seller/orderScreen.js';✅
+import PendingOrder from './screens/Seller/pendingScreen.js';✅
+import ProfileScreenEmail from './screens/Seller/profileScreen.email.js';✅
+import ProfileScreen from './screens/Seller/profileScreen.js';✅
+import ProfileScreenMobile from './screens/Seller/profileScreen.mobile.js';✅
+import ProfileScreenName from './screens/Seller/profileScreen.name.js';✅
+import ProfileScreenRestaurant from './screens/Seller/profileScreen.restaurant.js';✅
+import ViewScreenFinish from './screens/Seller/viewScreen.finish.js';✅
+import ViewScreenOrder from './screens/Seller/viewScreen.order.js';✅
+import ViewScreenPending from './screens/Seller/viewScreen.pending.js';✅
+
+Admin Stack
+import AvailableScreen from './screens/Admin/availableScreen.js';
+import HomeScreen from './screens/Admin/homeScreen.js';
+import OccupiedScreen from './screens/Admin/occupiedScreen.js';
+
+component Seller
+Pending✅
+Menu✅
+Finish✅
+Order✅
+Profile✅
+
+Note:
+admin receive request manually
+admin key in data for who successfully accepted
+admin give the login details to the seller through email
